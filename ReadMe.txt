@@ -2,7 +2,7 @@
 
 ---
 
-# Real-time Object Detection with YOLOv8
+# Real-time Human Detection with YOLOv8
 
 This Python script utilizes the YOLOv8 model for real-time object detection on a video stream.
 It detects people in the video feed and draws bounding boxes around them.
